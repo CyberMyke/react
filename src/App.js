@@ -5,7 +5,7 @@ const user = {
 };
 
 function MyButton() {
-  return <button>I'm a button</button>;
+  return <button>I'm a button, im really cool</button>;
 }
 
 export default function MyApp() {
