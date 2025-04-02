@@ -1,2 +1,2 @@
 # react
-Created with CodeSandbox
+Created with CodeSandbox. playing with buttons and layouts
